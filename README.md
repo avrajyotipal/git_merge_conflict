@@ -14,10 +14,10 @@ This project demonstrates how Git handles merge conflicts when two branches modi
 
 1. Created the initial project on main.
 2. Created feature-discount from main.
-3. Changed the discount from 10% to 20%.
+3. Changed the discount from 15% to 25%.
 4. Committed the change.
 5. Created feature-premium-discount from the original main branch.
-6. Changed the discount from 10% to 30%.
+6. Changed the discount from 15% to 35%.
 7. Committed the change.
 8. Merged feature-discount into main.
 9. Attempted to merge feature-premium-discount.
