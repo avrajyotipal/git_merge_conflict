@@ -1,5 +1,5 @@
 def calculate_discount(price):
-    discount = price * 0.10
+    discount = price * 0.30
     return price - discount
 
 
